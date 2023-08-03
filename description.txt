@@ -1,0 +1,11 @@
+This is a machine learning model that predicts the growth of Indian startup based on the past records of startups.
+This model helps in analysising which is the best suitable startup to be started in this period based on our needs.
+
+REQUIREMENTS:
+Python notebook
+Visual Studio code
+Pandas library
+Numpy library
+Matplotlib library
+Scikit-learn library
+Word cloud library
